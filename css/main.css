@@ -1,3 +1,18 @@
-
+h1 {
+  font-size: 30px;
+  color: #74030e;
+}
+@media screen and (min-width: 768px) {
+  h1 {
+    font-size: 40px;
+    color: #132601;
+  }
+}
+@media screen and (min-width: 1040px) {
+  h1 {
+    font-size: 60px;
+    color: blue;
+  }
+}
 
 /*# sourceMappingURL=main.css.map */
